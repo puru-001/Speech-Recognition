@@ -1,0 +1,22 @@
+body {
+    background-color:rgb(124, 59, 59);
+}
+
+#template{
+  flex-wrap: wrap;
+  display: flex;
+  width: 80%;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 20px;
+  border-bottom: 1px solid #eee;
+  margin: 0 auto;
+
+}
+
+#template p{
+   color: #fff;
+   font-size: 20px;
+   border-bottom: 1px solid #eee;
+}
